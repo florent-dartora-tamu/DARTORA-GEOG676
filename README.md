@@ -1,3 +1,3 @@
 # DARTORA-GEOG676
 
-This is my Lab4 github folder, containing the python code and various screenshots (executed code, output file, geodatabase)
+This is my github GEOG 676 repository, containing the folders and files to provide for each lab.
